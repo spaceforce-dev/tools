@@ -1,3 +1,16 @@
+# MANTRA DAO strategy helper test
+
+1. replace the infura key in services/network-providors/infura-service
+
+2. run 'yarn'
+
+3. run node accountCheck.js
+
+
+
+
+
+
 [![polkadotjs](https://img.shields.io/badge/polkadot-js-orange?style=flat-square)](https://polkadot.js.org)
 ![license](https://img.shields.io/badge/License-Apache%202.0-blue?logo=apache&style=flat-square)
 [![npm](https://img.shields.io/npm/v/@polkadot/api-cli?logo=npm&style=flat-square)](https://www.npmjs.com/package/@polkadot/api-cli)
